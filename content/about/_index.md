@@ -17,4 +17,4 @@ assignments, and provided one-to-one tutoring.
 
 In parallel to my academics at IITR, I was an Executive Editor at WatchOut (the official student media body of IITR), a guitarist in the Music Section, and an Executive Member of the Physics and Astronomy Club IITR. See more in my [CV](/cv/). 
 
-I enjoy playing my guitar, playing chess (I am around 1600 ELO on chess.com), and creating art. In my spare time, I also like to write [blogs](/blog/) about things I find interesting.
+I enjoy playing my guitar, playing chess (I am around 1600 ELO on chess.com), and creating art. In my spare time, I also like to write [blogs](/blog/) about things I find interesting. 
