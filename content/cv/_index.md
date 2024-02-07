@@ -17,13 +17,19 @@ Download CV
 
 # Manish Prasad
 
-I am an incoming MSc Physics student at ETH Zürich. I completed my Bachelor of Technology in Engineering Physics from the Indian Institute of Technology Roorkee, India. I am passionate about physics and science communication.
+I am a Master in Physics student at ETH Zürich. I completed my Bachelor of Technology in Engineering Physics from the Indian Institute of Technology Roorkee, India. I am passionate about physics and science communication.
 
 Apart from academics, I am also passionate about music, chess, art, and nature.
 
 ---
 
 ## Education
+<p style="text-align:left;">
+    <h3 id="internship-fdtd-simulations-using-gprmax">Master of Science - Physics
+    <span style="float:right;">
+        2023 - ongoing</h3>
+    </span>
+</p>
 
 <p style="text-align:left;">
     <h3 id="internship-fdtd-simulations-using-gprmax">Bachelor of Technology - Engineering Physics
