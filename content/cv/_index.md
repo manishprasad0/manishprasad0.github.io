@@ -30,13 +30,14 @@ Apart from academics, I am also passionate about music, chess, art, and nature.
         2023 - ongoing</h3>
     </span>
 </p>
+
 - <p style="text-align:left;">
     <strong id="ethz">ETH Zürich
    <!--- <span style="float:right;">
         GPA: 9.182/10.0</strong>
     </span> --->
   </p>
-        '
+
 <p style="text-align:left;">
     <h3 id="internship-fdtd-simulations-using-gprmax">Bachelor of Technology - Engineering Physics
     <span style="float:right;">
@@ -45,7 +46,7 @@ Apart from academics, I am also passionate about music, chess, art, and nature.
 </p>
 
 - <p style="text-align:left;">
-    <strong id="internship-fdtd-simulations-using-gprmax">Indian Institute of Technology Roorkee
+    <strong id="iitr">Indian Institute of Technology Roorkee
    <!--- <span style="float:right;">
         GPA: 9.182/10.0</strong>
     </span> --->
