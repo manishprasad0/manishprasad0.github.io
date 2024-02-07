@@ -4,10 +4,10 @@ description: "This is a demo of adding content to the homepage."
 ---
 
 {{< lead >}}
-Incoming MSc Physics student at ETH Zürich
+MSc Physics student at ETH Zürich
 {{< /lead >}}
 
-Hello! I am Manish Prasad. I am an incoming MSc Physics student at ETH Zürich, passionate about physics and astronomy.
+Hello! I am Manish Prasad. I am an MSc Physics student at ETH Zürich, passionate about physics and astronomy.
 
 <!---
 I am particularly interested in the popularization and democratization of statistics (and its applications in R) in order to make them accessible to everyone.
