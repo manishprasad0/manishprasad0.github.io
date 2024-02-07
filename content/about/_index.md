@@ -3,7 +3,7 @@ title: "About"
 date: 2023-03-28T18:08:10+05:30
 layout: "simple"
 ---
-I am an incoming Master in Physics student at ETH Zürich, Switzerland. I did my Bachelor in Engineering Physics from the Indian Institute of Technology Roorkee (IITR), India. When I was nine years old, I watched the excellent documentary: Into the Universe with Stephen Hawking and was instantly captivated by the bizarreness of black holes and the origin of the universe. After that day, there has been nothing that has piqued my curiosity more than physics. My research interests include gravitational physics, cosmology, and high-energy physics. I aim to delve deeper into these domains and decide on the specific area in which I wish to pursue my Ph.D.
+I am a Master in Physics student at ETH Zürich, Switzerland. I did my Bachelor in Engineering Physics from the Indian Institute of Technology Roorkee (IITR), India. When I was nine years old, I watched the excellent documentary: Into the Universe with Stephen Hawking and was instantly captivated by the bizarreness of black holes and the origin of the universe. After that day, there has been nothing that has piqued my curiosity more than physics. My research interests include black holes, gravitational physics, cosmology, and high-energy physics. I aim to delve deeper into these domains and decide on the specific area in which I wish to pursue my Ph.D.
 
 I have worked on multiple projects on physics and applied physics.
 - **Bachelor's Thesis Project on Applications of Q-statistics in Big Bang Nucleosynthesis, at IITR**: We studied the effects of modifying Maxwell's distribution using Tsallis non-extensive statistics (q-statistics) to calculate the primordial abundances of light elements during big bang nucleosynthesis
